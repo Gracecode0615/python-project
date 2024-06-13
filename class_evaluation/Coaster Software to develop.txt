@@ -1,0 +1,20 @@
+Develop a software that helps to calculate the total amount of coaster carton a customer order
+Imagine you own a coaster biscuit depot office and needs software to help calculate total amount for coaster buscuit bought by your clients
+
+Conditions to consider: 
+Only Coaster biscuits are available! 
+You only sell in bulks (i.e only carton and half carton)
+There are two types of coaster biscuit available, the #50 coasters (The big type) and #20 coasters(The small type)
+
+The prices for the carton size for the #50 naira are as follows:
+	i. The small carton size contains 45 pieces which cost #4000
+	ii. The medium carton size contains 75 pieces which cost #5500
+	iii. The large carton size contains 110 pieces which cost #7000
+
+The prices for the carton size for the #20 naira are as follows:
+	i. The small carton size contains 65 pieces which cost #4000
+	ii. The medium carton size contains 100 pieces which cost #5500
+	iii. The large carton size contains 140 pieces which cost #7000
+
+What the software will do: 
+It takes your order by asking what type of coster is bought, what carton quantity is bought, what size (big, medium, large) is bought and then calculates the total amount to be paid. 
