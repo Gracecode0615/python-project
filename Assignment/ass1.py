@@ -27,32 +27,32 @@ s = str(42)  # s will be "42"
 
 
     # - `len(iterable)`: Returns the number of items in an iterable.
-    My_list = [1, 2, 3, 4, 5]
-    print(len(my_list))  # Output: 5
+My_list = [1, 2, 3, 4, 5]
+print(len(my_list))  # Output: 5
    
 
     # - `max(iterable)`: Returns the maximum value in an iterable.
     
-    My_list = [10, 20, 30, 40, 50]
-    print(max(my_list))  # Output: 50
+My_list = [10, 20, 30, 40, 50]
+print(max(my_list))  # Output: 50
     
 
     # - `min(iterable)`: Returns the minimum value in an iterable.
 
-        my_list = [10, 20, 30, 40, 50]
-        print(min(my_list))  # Output: 10
+my_list = [10, 20, 30, 40, 50]
+print(min(my_list))  # Output: 10
         
 
     # - `abs(x)`: Returns the absolute value of a number `x`.
-        num = -10
-        print(abs(num))  # Output: 10
+num = -10
+print(abs(num))  # Output: 10
      
 
     # - `sorted(iterable, key=None, reverse=False)`: Returns a new sorted list from the elements of the iterable.
    
-        my_list = [3, 1, 4, 1, 5, 9, 2]
-        sorted_list = sorted(my_list)
-        print(sorted_list)  # Output: [1, 1, 2, 3, 4, 5, 9]
+my_list = [3, 1, 4, 1, 5, 9, 2]
+sorted_list = sorted(my_list)
+print(sorted_list)  # Output: [1, 1, 2, 3, 4, 5, 9]
      
 
     # - `enumerate(iterable, start=0)`: Returns an iterator that yields tuples containing a count and the values from the iterable.
